@@ -5,12 +5,12 @@
   
     </v-main>
 
-    <AppFooter />
+ 
   </v-app>
 </template>
 
 <script setup>
 
 
-  //
+  //   <AppFooter />
 </script>
